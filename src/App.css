@@ -1,0 +1,48 @@
+.list {
+  text-align: left;
+  margin-top: 70px;
+  max-width: 750px;
+  margin-left: -150px;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.logo {
+  margin-left: 160px;
+  margin-top: 50px;
+}
+.table {
+  margin-left: 40px;
+  width: 500px;
+  height: 200px;
+  margin-top: 70px;
+}
+.th1 {
+  color: aliceblue;
+}
+.th1 {
+  background-color: #2c2c2c;
+}
+.total {
+  width: 200px;
+  height: 80px;
+  margin-left: 170px;
+  text-align: center;
+}
+
+.total h1 {
+  color: aliceblue;
+  background-color: black;
+}
+
+.total h2 {
+  font-size: 45px;
+}
