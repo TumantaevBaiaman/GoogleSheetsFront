@@ -2,7 +2,7 @@
   text-align: left;
   margin-top: 70px;
   max-width: 750px;
-  margin-left: -150px;
+  margin-left: -220px;
 }
 
 .submit-form {
@@ -45,4 +45,15 @@
 
 .total h2 {
   font-size: 45px;
+}
+
+.button {
+  height: 35px;
+  width: 100px;
+  margin-left: -70px;
+  background-color: #2c2c2c;
+  border: none;
+  color: white;
+  display: inline-block;
+  font-size: 16px;
 }
